@@ -1,0 +1,14 @@
+html * {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button {
+    background-color: #d8bfd8;
+    color: #000000;
+    font-size: 18px;
+}
+
+.images {
+    height: auto;
+    width: 500px;
+}
